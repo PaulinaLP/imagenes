@@ -1,5 +1,5 @@
-# imagenes
-This script paint rectangles around paragraphs in pdf documents.
+# paragraph_detection
+This script paint rectangles around paragraphs in documents.
 It also marks the horizontal lines.
 
 The files to process should be put in input folder.
